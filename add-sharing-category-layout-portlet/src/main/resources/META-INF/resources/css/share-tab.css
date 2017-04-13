@@ -1,3 +1,4 @@
+<!--table header ,border css -->
 .heading_brdbg {
 	background-color: #f5f8fa;
 	border-color: #44a5aa;
@@ -7,6 +8,7 @@
 	font-size: 16px;
 	font-weight: 500px;
 }
+<!--display alignment button css -->
 .btn-group.custom_color .btn-primary:active, .btn-group.custom_color .btn-primary.active,
 	.btn-group.custom_color .btn-primary:active:focus, .btn-group.custom_color .btn-primary:active:hover,
 	.btn-group.custom_color .btn-primary.active:focus, .btn-group.custom_color .btn-primary.active:hover,
