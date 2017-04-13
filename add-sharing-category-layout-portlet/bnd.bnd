@@ -1,0 +1,7 @@
+Bundle-SymbolicName: add.sharing.category.layout.portlet
+Bundle-Version: 1.0.0
+Include-Resource:\
+        META-INF/resources=src/main/resources/META-INF/resources
+-jsp: *.jsp,*.jspf
+-plugin.jsp: com.liferay.ant.bnd.jsp.JspAnalyzerPlugin
+Web-ContextPath: /sharing
