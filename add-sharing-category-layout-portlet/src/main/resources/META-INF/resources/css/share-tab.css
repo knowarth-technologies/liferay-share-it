@@ -1,0 +1,30 @@
+.heading_brdbg {
+	background-color: #f5f8fa;
+	border-color: #44a5aa;
+}
+.table>thead>tr.heading_brdbg>th {
+	border-bottom: 2px solid #44a5aa;
+	font-size: 16px;
+	font-weight: 500px;
+}
+.btn-group.custom_color .btn-primary:active, .btn-group.custom_color .btn-primary.active,
+	.btn-group.custom_color .btn-primary:active:focus, .btn-group.custom_color .btn-primary:active:hover,
+	.btn-group.custom_color .btn-primary.active:focus, .btn-group.custom_color .btn-primary.active:hover,
+	.btn-group.custom_color .open>.btn-primary.dropdown-toggle, .btn-group.custom_color .open>.btn-primary.dropdown-toggle:focus,
+	.btn-group.custom_color .open>.btn-primary.dropdown-toggle:hover {
+	background-color: #44a5ab;
+	border-color: #44a5ab;
+}
+.btn-group.custom_color .btn-primary {
+	background: #819aae;
+	border-color: #819aae;
+}
+.btn-group.custom_color .btn-primary:hover {
+	background: #819aae;
+	border-color: #819aae
+}
+
+<!--color picker css -->
+.hsv-palette .hsv-view-container .hsv-value {
+	width : 60px;
+}
